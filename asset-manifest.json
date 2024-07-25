@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/super-app/static/css/main.0c8dd804.css",
+    "main.js": "/super-app/static/js/main.f434bcfb.js",
+    "static/js/453.7409fcf5.chunk.js": "/super-app/static/js/453.7409fcf5.chunk.js",
+    "static/media/coding.jpeg": "/super-app/static/media/coding.e3fe3f2f0c176bab3319.jpeg",
+    "static/media/MCQ.png": "/super-app/static/media/MCQ.4987205d268b0b6ee4ae.png",
+    "static/media/OnlineExam.png": "/super-app/static/media/OnlineExam.42ff33a9e7d6e060f50f.png",
+    "static/media/certificateImage.png": "/super-app/static/media/certificateImage.5be951f26d3f9abab090.png",
+    "static/media/digitalMarketing.png": "/super-app/static/media/digitalMarketing.400f43e6c45363c47ea4.png",
+    "static/media/projectManagement.png": "/super-app/static/media/projectManagement.1e3c155f2cd4b4b135c1.png",
+    "static/media/CarrerPlan.png": "/super-app/static/media/CarrerPlan.5c813955e19eed86100b.png",
+    "static/media/agile.png": "/super-app/static/media/agile.0ec4467771137e8bb8e4.png",
+    "static/media/artificial.png": "/super-app/static/media/artificial.2d3a1c71e3ce8962fe6f.png",
+    "static/media/FAQ.png": "/super-app/static/media/FAQ.b1f874898a82efaf11bd.png",
+    "static/media/Enotes.png": "/super-app/static/media/Enotes.7788328787870401f273.png",
+    "static/media/ShortNotes.png": "/super-app/static/media/ShortNotes.7788328787870401f273.png",
+    "static/media/digitalCourses.png": "/super-app/static/media/digitalCourses.9f6b52cfcf50a6c46112.png",
+    "static/media/python.png": "/super-app/static/media/python.9bb765841a283f38cbcc.png",
+    "static/media/QuickTest.png": "/super-app/static/media/QuickTest.ac6780b09c1813171868.png",
+    "static/media/TheoryTest.png": "/super-app/static/media/TheoryTest.14cb5f7dc06a9ead6a6f.png",
+    "static/media/PersonalPanel.png": "/super-app/static/media/PersonalPanel.4a4c524ccff7c1443cfc.png",
+    "static/media/Projects.png": "/super-app/static/media/Projects.1357a32986574819c860.png",
+    "static/media/Mock.png": "/super-app/static/media/Mock.daff4e66f36acaf44548.png",
+    "static/media/TheoryClasses.png": "/super-app/static/media/TheoryClasses.630d40c42408f4d83b98.png",
+    "static/media/notes.png": "/super-app/static/media/notes.630d40c42408f4d83b98.png",
+    "static/media/Practicals.png": "/super-app/static/media/Practicals.294121f08d18a73b7547.png",
+    "static/media/logo.png": "/super-app/static/media/logo.2e50bc59ac0328cb9f60.png",
+    "static/media/background-image.jpeg": "/super-app/static/media/background-image.98775b25b4e5d68ab2f5.jpeg",
+    "index.html": "/super-app/index.html",
+    "main.0c8dd804.css.map": "/super-app/static/css/main.0c8dd804.css.map",
+    "main.f434bcfb.js.map": "/super-app/static/js/main.f434bcfb.js.map",
+    "453.7409fcf5.chunk.js.map": "/super-app/static/js/453.7409fcf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c8dd804.css",
+    "static/js/main.f434bcfb.js"
+  ]
+}
