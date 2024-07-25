@@ -1,0 +1,55 @@
+.career-section {
+  
+  padding: 40px 20px; 
+  color: white;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+}
+
+.section-heading {
+  color: #000;
+  font-size: 24px;
+  margin-bottom: 30px; 
+  font-family: "Poppins", sans-serif;
+}
+
+.text-content {
+  background-color: #000000; 
+  padding: 20px;
+  margin-bottom: 20px; 
+  border-radius: 8px;
+
+  display: flex;
+  align-items: center;
+  gap: 10px; 
+ 
+
+}
+
+.tick-icon-container {
+  background-color: #FFD700; 
+  border-radius: 5px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px; 
+  height: 40px; 
+}
+
+.tick-icon {
+  color: #000; 
+  font-size: 24px; 
+}
+
+.title {
+  color: #FFD700; 
+  font-size: 16px;
+  margin: 0;
+  text-align: left;
+}
+
+.description {
+  color: #fff; 
+  font-size: 14px;
+  margin: 0;
+}

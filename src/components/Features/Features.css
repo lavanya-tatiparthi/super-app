@@ -1,0 +1,42 @@
+.features-section {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .features-container {
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-between; */
+    gap: 20px;
+  }
+
+  .main-heading {
+    font-size: 24px;
+    color: black;
+    margin-bottom: 10px;
+  }
+  
+  .feature-card {
+    display: flex;
+    align-items: center;
+    background-color: #000;
+    border: 2px solid #EBE100;
+    border-radius: 5px;
+    /* padding: 10px; */
+    width: calc(33.33% - 20px); 
+    color: white;
+  }
+  
+  .feature-image {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 5px;
+  }
+  
+  .feature-name {
+    flex-grow: 1;
+    text-align: left;
+  }
+  

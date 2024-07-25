@@ -1,0 +1,86 @@
+.faq-section {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .main-heading {
+    font-size: 32px;
+    color: black;
+    margin-bottom: 10px;
+  }
+  
+  .sub-heading {
+    font-size: 18px;
+    color: black;
+    margin-bottom: 30px;
+  }
+  
+  .accordion-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .accordion-item {
+    background-color: black;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 1200px;
+    margin-bottom: 10px;
+    overflow: hidden;
+  }
+  
+  .accordion-header {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    border-radius: 8px;
+    border-bottom: 2px solid #EEBB07;
+  }
+  
+  .accordion-content {
+    background-color: #000;
+    padding: 15px;
+    color: #fff;
+    align-self: flex-start;
+    display: flex;
+
+  }
+  
+  .expand-icon {
+    transition: transform 0.3s ease;
+    background-color: #EEBB07;
+    color: #000;
+    border-radius: 50%;
+    padding: 5px;
+  }
+  
+  .expand-icon.open {
+    transform: rotate(180deg);
+  }
+  
+  .view-more-button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 8px;
+    align-self: flex-end;
+    font-size: 16px;
+  }
+  .expand-icon1 {
+    transition: transform 0.3s ease;
+    background-color: #EEBB07;
+    color: #000;
+    border-radius: 50%;
+    padding: 3px;
+  }
+  
